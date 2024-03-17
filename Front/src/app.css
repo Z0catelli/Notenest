@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;300;400;600&family=Lobster&family=Red+Hat+Display&display=swap');
+
+html{
+  height: 100%;
+  font-family: 'Josefin Sans';
+}
+
+main{
+  min-height: 755px;
+  margin-bottom: 35px;
+}
+
+.days-container {
+    display: flex;
+    margin: 0px 20px;
+    margin: 0px 20px;
+  }
+
+/* Estilo para a barra de rolagem no Chrome e Safari */
+::-webkit-scrollbar {
+    width: 12px; /* Largura da barra de rolagem */
+  }
+  
+  ::-webkit-scrollbar-track {
+    background-color: #f5f5f5; /* Cor de fundo da área da barra de rolagem */
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background-color: #888; /* Cor da alça da barra de rolagem */
+    border-radius: 6px; /* Borda arredondada da alça */
+    border: 3px solid #f5f5f5; /* Cor da borda da alça */
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background-color: #555; /* Cor da alça da barra de rolagem ao passar o mouse */
+  }
+
+
+ 

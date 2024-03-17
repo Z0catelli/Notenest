@@ -1,0 +1,10 @@
+.footer {
+    box-sizing: border-box;
+    position:static;
+    color: #fff;
+    bottom: 0%;
+    width: 100%;
+    background-color: #91e2db; /* Altere a cor de fundo conforme necessário */
+    text-align: center;
+    padding: 15px;
+  }

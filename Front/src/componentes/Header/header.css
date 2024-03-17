@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;300;400;600&family=Lobster&family=Red+Hat+Display&display=swap');
+
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid #c9c9c9;
+    margin: 10px 20px 0px 20px;
+}
+
+
+.logo{
+    width: 200px;
+}
+
+.months{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+}
+
+.month-name{
+    font-family: 'Lobster';
+    font-size: 55px;
+    font-weight: 600;
+    color: #2C4A54;
+}
