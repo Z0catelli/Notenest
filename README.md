@@ -1,16 +1,12 @@
 <h1 align="center"> Notenest: Planner Semanal </h1>
 
 <div align="center">
-<img alt="In Progress Status Yellow Badge" src="https://img.shields.io/badge/Status-In_Progress-f2df0a">
+<img alt="In Progress Status Yellow Badge" src="https://img.shields.io/badge/Status-Finalizado-green">
 <img alt="NodeJS Badge" src="https://img.shields.io/badge/NodeJS-5cab5b">
 <img alt="JavaScript Badge" src="https://img.shields.io/badge/JavaScript-08c9ac">
 <img alt="React Badge" src="https://img.shields.io/badge/React-00c8ff">
 
 </div> <br>
-
-<div align="center">
-:construction: Projeto em construção :construction:
-</div>
 
 <div>
   <h2> Descrição </h2>
