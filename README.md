@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/72850534-7a64-4a21-80fd-6d489c926a5e"> 
+
 <h1 align="center"> Notenest: Planner Semanal </h1>
 
 <div align="center">
@@ -10,8 +12,18 @@
 
 <div>
   <h2> Descrição </h2>
-  <p>Esta aplicação React oferece uma interface simples para gerenciar tarefas diárias. Organize suas atividades por dia da semana, adicione lembretes e atribua categorias personalizadas a cada tarefa. </p>
+  <p>Notenest é uma aplicação web simples de gerenciamento de tarefas desenvolvida com HTML, CSS, JavaScript, React, Axios e NodeJS e foi conectada a um banco de dados MySQL localmente através de um container Docker.  </p>
 </div>
+
+<h2>🔧 Funcionalidades</h2>
+<ul>
+  <li>Criar lembretes</li>
+  <li>Salvar lembretes</li>
+  <li>Editar lembretes</li>
+  <li>Apagar lembretes</li>
+  <li>Selecionar categorias, datas ou alterar status</li>
+</ul>
+  <img src="https://github.com/user-attachments/assets/2914ffe5-9a1d-4c64-a6f5-62fce1fdab58">
 
 <h2> 📁 Acesso ao Projeto </h2>
 <p> <a href="https://github.com/Z0catelli/Notenest?search=1">Acesse o código fonte do projeto</a> ou <a href="https://github.com/Z0catelli/Notenest/archive/refs/heads/main.zip">baixe aqui</a>.</p>
@@ -37,7 +49,7 @@
 <div>
     <h3> Instalação</h3>
   <ol>
-    <li>Abra o terminal (<code>ctrl+shift+T</code>)</li>
+    <li>Abra o terminal </li>
     <li> Clone este repositório em seu ambiente local: <br> 
     <code>git clone https://github.com/Projeto-A3-NoteNest/Projeto_A3_Front.git</code>
     <li> Acesse o diretório do projeto utilizando o comando <code>cd [caminho-do-diretorio]</code>. </li>
@@ -47,10 +59,3 @@
   <p>Após a instalação das dependências, você pode iniciar o servidor de desenvolvimento. No diretório do projeto, execute: <code>npm start</code></p> 
 <p>Isso iniciará o aplicativo em um servidor local e abrirá automaticamente uma nova janela do navegador. Se isso não acontecer, você pode acessar http://localhost:3000 em seu navegador.</p>
 </div>
-
-<h2>🔧 Funcionalidades</h2>
-<ul>
-  <li>Criar lembretes</li>
-  <li>Selecionar uma categoria para cada lembrete</li>
-  <li>Apagar lembretes</li>
-</ul>
