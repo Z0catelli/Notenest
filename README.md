@@ -28,11 +28,6 @@
 <h2> 📁 Acesso ao Projeto </h2>
 <p> <a href="https://github.com/Z0catelli/Notenest?search=1">Acesse o código fonte do projeto</a> ou <a href="https://github.com/Z0catelli/Notenest/archive/refs/heads/main.zip">baixe aqui</a>.</p>
 
-<h3>Requisitos</h3>
-<div>
-  <img alt="NodeJS version badge" src="https://img.shields.io/badge/NodeJS-v20.9.0-08c9ac">
-  <img alt="npm version badge" src="https://img.shields.io/badge/npm-v10.2.4-08c9ac">
-</div>
 <br>
 
 <h3>📥 Instalando NodeJS no Linux(Ubuntu)</h3>
@@ -46,6 +41,11 @@
 <p>Para verificar se o NodeJS foi realmente instalado você pode executar o comando <code>node -v</code> no terminal, se retornar o número da versão significa que foi instalado com sucesso.</p>
 
 <h2> 🛠️ Abrir e Rodar o Projeto </h2>
+<h3>Requisitos</h3>
+<div>
+  <img alt="NodeJS version badge" src="https://img.shields.io/badge/NodeJS-v20.9.0-08c9ac">
+  <img alt="npm version badge" src="https://img.shields.io/badge/npm-v10.2.4-08c9ac">
+</div>
 <div>
     <h3> Instalação</h3>
   <ol>
